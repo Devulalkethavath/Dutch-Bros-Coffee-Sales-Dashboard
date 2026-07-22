@@ -18,7 +18,7 @@ The **Dutch Bros Coffee Sales Dashboard** is an interactive Business Intelligenc
 ![Dutch Bros Coffee Sales Dashboard](coffee_sales_pic.png)
 
 ---
-![Dutch Bros Coffee Sales Dashboard](coffee_sales_pic22.png)
+![Dutch Bros Coffee Sales Dashboard](coffee_sales_pic12.png)
 
 ## 📊 Key Metrics
 
